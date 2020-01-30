@@ -7,6 +7,7 @@
 # Authors: Jhonny C Massante & Pille Gerhold
 #======================================================================================
 
+# Analyses need information from the community data (comm), and the dataset (data.full).
 # The full code was split into four parts:
 
 # (1) Preprocessing, (2) Statistical analysis, (3) Figures, (4) plant families analysis .
