@@ -1,2 +1,0 @@
-There are two folders in this repository. The first one (Data) includes two main files used in the analysis: a matrix of species by site (presence/absence) and the full dataset (data.full) with all predictors and response variables, except phylogenetic beta diversity files, which were included separately as .RData files. The second folder includes a R script with all steps to produce the results.
- 
